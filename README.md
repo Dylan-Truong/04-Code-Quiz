@@ -2,7 +2,7 @@
 
 ## Description 
 
-A Quiz App based on Javascript, CSS and HTML where you can practice your knowledge.
+A Coding Quiz App based on Javascript, CSS and HTML where you can practice your knowledge by answering a timed multiple-choice questions.
 
 ## URLs
 
